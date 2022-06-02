@@ -1,0 +1,15 @@
+[DCINSTALL]
+ReplicaorNewDomain= replica
+ReplicaDomainDNSName= lucernpub.com
+UserDomain= LUCERNPUB
+UserName= Administrator
+SiteName= RemoteLocation
+Password= "P@$$w0rd"
+InstallDNS= Yes
+ConfirmGC= Yes
+CreateDNSDelegation= No
+DatabasePath= E:\NTDS
+LogPath= E:\Logs
+SYSVOLPath= E:\SYSVOL
+SafeModeAdminPassword= "P@$$w0rd"
+RebootOnSuccess= true

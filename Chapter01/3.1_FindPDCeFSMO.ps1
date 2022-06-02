@@ -1,0 +1,1 @@
+﻿Get-ADDomain | Format-List PDCEmulator

@@ -1,0 +1,1 @@
+nltest.exe /server:DomainControllerName /sc_query:lucernpub.com

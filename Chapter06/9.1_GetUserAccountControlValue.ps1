@@ -1,0 +1,1 @@
+﻿Get-ADUser -Identity "CN=User,CN=Users,DC=lucernpub,DC=com" -Properties userAccountControl | Format-Table name,useraccountcontrol

@@ -1,0 +1,1 @@
+Remove-CATemplate -Name "Name of no longer needed certificate"

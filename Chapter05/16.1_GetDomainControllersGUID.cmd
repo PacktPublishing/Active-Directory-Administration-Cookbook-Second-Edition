@@ -1,0 +1,1 @@
+dsquery.exe * "CN=DC01,OU=Domain Controllers,DC=LucernPub,DC=com" -scope base -attr objectguid

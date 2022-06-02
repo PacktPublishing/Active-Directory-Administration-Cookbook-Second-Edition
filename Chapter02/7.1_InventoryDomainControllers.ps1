@@ -1,0 +1,1 @@
+﻿Get-ADDomainController  | Select-Object Name 

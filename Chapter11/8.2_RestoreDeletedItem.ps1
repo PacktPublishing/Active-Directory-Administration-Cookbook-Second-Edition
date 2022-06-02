@@ -1,0 +1,1 @@
+Get-ADObject -Filter {displayName -eq "DisplayNameOfTheObject"} -IncludeDeletedObjects | Restore-ADObject

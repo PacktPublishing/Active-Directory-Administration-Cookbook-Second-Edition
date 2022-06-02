@@ -1,0 +1,1 @@
+Install-AdcsCertificationAuthority -CAType EnterpriseRootCA

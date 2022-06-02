@@ -1,0 +1,1 @@
+﻿dsmove.exe "CN=User,CN=Users,DC=lucernpub,DC=com" -newparent "OU=Organizational Unit,DC=lucernpub,DC=com"

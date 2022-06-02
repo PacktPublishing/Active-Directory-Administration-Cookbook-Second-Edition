@@ -1,0 +1,1 @@
+﻿Get-ADDCCloningExcludedApplicationList -GenerateXml -Path C:\Windows\NTDS -Force 

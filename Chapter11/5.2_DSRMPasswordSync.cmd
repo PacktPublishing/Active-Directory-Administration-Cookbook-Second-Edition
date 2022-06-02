@@ -1,0 +1,1 @@
+ntdsutil.exe "set dsrm password" "sync from domain account DSRMDCXUser" quit quit

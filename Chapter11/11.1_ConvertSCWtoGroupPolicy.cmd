@@ -1,0 +1,1 @@
+scwcmd.exe transform /p:"C:\Windows\security\msscw\Policies\test.xml" /g:"Domain Controller Security Settings"

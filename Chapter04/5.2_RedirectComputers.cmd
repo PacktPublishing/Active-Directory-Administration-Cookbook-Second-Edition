@@ -1,0 +1,1 @@
+redircmp.exe "OU=Redirected Computers OU,DC=LucernPub,DC=com" 

@@ -1,0 +1,1 @@
+﻿Get-ADUser - Filter * -Properties userAccountControl | Format-Table name,useraccountcontrol

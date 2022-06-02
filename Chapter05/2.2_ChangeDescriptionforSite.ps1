@@ -1,0 +1,1 @@
+Set-ADReplicationSite -Identity "CN=Default-First-SiteName,CN=Sites,CN=Configuration,DC=Lucernpub,DC=com" -Description "New description here"

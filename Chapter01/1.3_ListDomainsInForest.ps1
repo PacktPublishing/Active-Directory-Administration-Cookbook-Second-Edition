@@ -1,0 +1,1 @@
+﻿Get-ADForest | Select-Object domains

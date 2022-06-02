@@ -1,0 +1,1 @@
+﻿Get-ADForest | Format-List SchemaMaster

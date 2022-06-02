@@ -1,0 +1,1 @@
+﻿dsadd.exe user "CN=User,CN=Users,DC=lucernpub,DC=com" -upn user@lucernpub.com -fn "User's First Name" -ln "User's Last Name" -display "User" -pwd "PasswordHere"

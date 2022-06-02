@@ -1,0 +1,1 @@
+dfsrmig.exe /getmigrationstate 

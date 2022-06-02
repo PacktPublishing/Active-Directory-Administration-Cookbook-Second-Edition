@@ -1,0 +1,1 @@
+﻿netdom.exe query fsmo 

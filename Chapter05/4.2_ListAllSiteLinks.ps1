@@ -1,0 +1,1 @@
+Get-ADReplicationSiteLink -Filter * | Select-Object Name

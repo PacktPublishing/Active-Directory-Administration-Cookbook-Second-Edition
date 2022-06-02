@@ -1,0 +1,1 @@
+Install-ADDSDomainController -DomainName lucernpub.com -InstallationMediaPath "C:\IFM"

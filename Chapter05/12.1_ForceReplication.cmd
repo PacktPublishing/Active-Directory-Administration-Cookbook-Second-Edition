@@ -1,0 +1,1 @@
+repadmin.exe /syncall /Aped

@@ -1,0 +1,1 @@
+Set-ADAccountControl -Identity User -DoesNotRequirePreAuth $true

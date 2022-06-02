@@ -1,0 +1,1 @@
+Add-ADFineGrainedPasswordPolicySubject PolicyName -Subjects GroupName

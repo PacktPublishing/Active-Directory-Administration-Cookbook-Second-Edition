@@ -1,0 +1,1 @@
+repadmin.exe /options DC01 +DISABLE_OUTBOUND_REPL 

@@ -1,0 +1,1 @@
+Get-ADGroup "CN=Group,OU=Organizational Unit,DC=lucernpub,DC=com" -Property member -ShowMemberTimeToLive

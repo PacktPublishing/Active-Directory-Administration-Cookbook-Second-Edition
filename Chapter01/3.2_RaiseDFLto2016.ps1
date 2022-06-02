@@ -1,0 +1,1 @@
+﻿Set-ADDomainMode lucernpub.com Windows2016Domain
