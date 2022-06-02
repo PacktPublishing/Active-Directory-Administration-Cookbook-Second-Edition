@@ -1,0 +1,1 @@
+﻿dcpromo.exe /unattend: C:\install\dcpromo.txt 

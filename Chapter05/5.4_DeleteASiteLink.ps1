@@ -1,0 +1,1 @@
+Remove-ADReplicationSiteLink -Identity "DEFAULTIPSITELINK"

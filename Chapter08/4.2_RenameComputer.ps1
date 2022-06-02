@@ -1,0 +1,1 @@
+Rename-Computer NewComputerName -Restart

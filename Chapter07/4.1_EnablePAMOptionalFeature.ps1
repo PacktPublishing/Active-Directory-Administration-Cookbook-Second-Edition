@@ -1,0 +1,1 @@
+Enable-ADOptionalFeature "Privileged Access Management Feature" -Scope ForestOrConfigurationSet -Target LucernPub.com

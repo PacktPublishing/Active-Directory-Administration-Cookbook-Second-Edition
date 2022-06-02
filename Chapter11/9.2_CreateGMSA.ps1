@@ -1,0 +1,1 @@
+New-ADServiceAccount MSAName –DNSHostName MSAName.domain.tld -PrincipalsAllowedToRetrieveManagedPassword "CN=AppServer1,CN=Computers,DC=LucernPub,DC=com" 

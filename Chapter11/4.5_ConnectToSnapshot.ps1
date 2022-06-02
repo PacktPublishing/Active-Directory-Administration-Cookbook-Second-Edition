@@ -1,0 +1,1 @@
+Get-ADComputer -Identity * -Server Localhost:3090

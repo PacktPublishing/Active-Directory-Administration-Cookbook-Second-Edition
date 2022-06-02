@@ -1,0 +1,1 @@
+New-ADReplicationSite -Name "Site2"

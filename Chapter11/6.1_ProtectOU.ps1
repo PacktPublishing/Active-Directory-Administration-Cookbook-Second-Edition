@@ -1,0 +1,1 @@
+Set-ADOrganizationalUnit -Identity "OU=Organizational Unit,DC=lucernpub,DC=com" -ProtectedFromAccidentalDeletion $true

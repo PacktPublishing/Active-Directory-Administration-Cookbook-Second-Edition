@@ -1,0 +1,1 @@
+﻿repadmin.exe /showattr *.lucernpub.com "dc=lucernpub,dc=com" /atts:msDS-Behavior-Version

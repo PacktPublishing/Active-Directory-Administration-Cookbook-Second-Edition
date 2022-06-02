@@ -1,0 +1,1 @@
+dsmod.exe computer "CN=Computer,CN=Computers,DC=LucernPub,DC=com" -reset

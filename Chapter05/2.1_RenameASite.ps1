@@ -1,0 +1,1 @@
+Rename-ADObject -Identity "CN=Default-First-SiteName,CN=Sites,CN=Configuration,DC=Lucernpub,DC=com" -NewName "ADSite2" 

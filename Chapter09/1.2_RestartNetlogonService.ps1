@@ -1,0 +1,1 @@
+Restart-Service -Name Netlogon

@@ -1,0 +1,1 @@
+dsadd.exe computer "CN=Computer,CN=Computers,DC=lucernpub,DC=com"

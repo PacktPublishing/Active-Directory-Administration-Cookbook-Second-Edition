@@ -1,0 +1,1 @@
+Set-ADAccountExpiration -Identity "CN=User,OU=Organizational Unit,DC=lucernpub,DC=com" -DateTime "03/01/2027 00:00:00"

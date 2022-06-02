@@ -1,0 +1,3 @@
+﻿Uninstall-ADDSDomainController
+
+Uninstall-WindowsFeature AD-Domain-Services -IncludeManagementTools

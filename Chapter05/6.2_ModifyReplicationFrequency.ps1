@@ -1,0 +1,1 @@
+Set-ADReplicationSiteLink -Identity DEFAULTIPSITELINK -ReplicationFrequencyInMinutes 30

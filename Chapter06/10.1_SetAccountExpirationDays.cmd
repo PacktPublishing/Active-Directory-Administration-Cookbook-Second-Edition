@@ -1,0 +1,1 @@
+﻿dsmod.exe user "CN=User,CN=Users,DC=lucernpub,DC=com" -acctexpires 90

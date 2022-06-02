@@ -1,0 +1,1 @@
+Uninstall-WindowsFeature -Name DNS

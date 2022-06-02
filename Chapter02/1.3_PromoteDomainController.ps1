@@ -1,0 +1,1 @@
+Install-ADDSDomainController -DomainName lucernpub.com -Credential (Get-Credential) -installDNS:$true -NoGlobalCatalog:$false -DatabasePath "E:\NTDS" -Logpath "E:\Logs" -SysvolPath "E:\SYSVOL" -Sitename RemoteLocation

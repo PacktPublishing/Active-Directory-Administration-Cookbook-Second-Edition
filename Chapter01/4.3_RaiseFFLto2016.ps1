@@ -1,0 +1,1 @@
+﻿Set-ADForestMode lucernpub.com Windows2016Forest

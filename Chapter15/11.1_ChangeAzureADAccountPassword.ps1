@@ -1,0 +1,2 @@
+Import-Module ADSync
+Add-ADSyncAADServiceAccount

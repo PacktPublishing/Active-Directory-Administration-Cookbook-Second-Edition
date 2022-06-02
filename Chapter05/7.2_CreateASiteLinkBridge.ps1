@@ -1,0 +1,1 @@
+New-ADReplicationSiteLinkBridge "SiteLinkBridgeName" -SiteLinksIncluded SiteLink1,SiteLink2 

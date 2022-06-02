@@ -1,0 +1,1 @@
+netdom.exe renamecomputer localhost /newname NewComputerName /reboot

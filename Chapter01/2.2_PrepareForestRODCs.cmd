@@ -1,0 +1,1 @@
+﻿adprep.exe /rodcprep /forest lucernpub.com /user DomAdmin /userdomain lucernpub.com /password P@ssw0rd

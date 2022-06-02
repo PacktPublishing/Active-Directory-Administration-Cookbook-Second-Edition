@@ -1,0 +1,1 @@
+﻿repadmin.exe /showattr * "cn=schema,cn=configuration,dc=lucernpub,dc=com" /atts:objectVersion
